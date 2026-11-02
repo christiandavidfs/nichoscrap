@@ -1,0 +1,10 @@
+[project]
+name = "nichoscrap"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "duckdb>=2.0.0",
+    "pandas>=3.1.0",
+    "playwright>=1.64.1",
+    "rapidfuzz>=3.14.6",
+]
